@@ -5,14 +5,9 @@ Python Version
 TEAM:
 	--- Purna Chandra Vinay Kumar. Vemali
 		https://github.com/vpcvinay/
-		pxv171630
-		2021380228
 
 	--- Bennaghatta Narayanaswamy Pooja.
-		https://github.com/PoojaGowda1617/
-		pxb180017
-		2021439541
-	
+		https://github.com/PoojaGowda1617/	
 
 INSTRUCTIONS:
 
